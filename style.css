@@ -1,6 +1,6 @@
 .header {
     height: 35px;
-    width: 800px;
+    width: 801px;
     background-color: #525254;
     opacity: 0.5;
     margin: 0 auto;
@@ -11,7 +11,7 @@ span {
     color: white;
     opacity: .75;
     font-family: Tahoma, Arial;
-    font-weight: 600;
+    font-weight: 602;
     text-align: center;
     margin: auto 5px;
     padding: auto 5px;
